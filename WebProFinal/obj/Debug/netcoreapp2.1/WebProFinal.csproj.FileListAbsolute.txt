@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\VSC\.vscode\MVC-ASP.NET-CORE-2.1.-CRUD-Web-App\WebProFinal\obj\Debug\netcoreapp2.1\WebProFinal.sourcelink.json
